@@ -40,9 +40,9 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-![Olly's github stats](https://github-readme-stats.vercel.app/api?username=ollyhsu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&hide=prs&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+![Olly's github stats](https://github-readme-stats.vercel.app/api?username=ollyhsu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&hide=prs&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)
 
-![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ollyhsu&hide_title=false&hide_border=true&layout=compact&hide=less,stylus&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ollyhsu&hide_title=false&hide_border=true&layout=compact&hide=less,stylus&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ollyhsu&theme=monokai&column=8&no-frame=true&no-bg=true)
 
